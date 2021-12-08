@@ -8,4 +8,4 @@
 
 ## Licence
 
-All code is released under the [MIT](https://github.com/ryo-manba/push_swap/blob/main/LICENSE) license
+All code is released under the [MIT](https://github.com/ryo-manba/hello_node/blob/main/LICENSE) license
