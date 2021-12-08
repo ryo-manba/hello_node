@@ -1,6 +1,6 @@
 # hello_node
 
-42Tokyo's node.js practice project.
+42Tokyo's Node.js practice project.
 
 ## Author
 
